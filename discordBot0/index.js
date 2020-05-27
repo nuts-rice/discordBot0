@@ -295,4 +295,4 @@ function shitPostCommand(arguments, receivedMessage) {
     .catch(console.error)
 }
 
-client.login("NTM0NDk3OTczODI5MTA3NzIy.DyWqNw.p_NB-GAPZVU7wZxoQnnAHzYeGN4")
+client.login("")
